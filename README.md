@@ -8,7 +8,7 @@ I created a local weather web application, using API to get my local weather con
  #### Implemented 
  Weather API https://www.weatherapi.com/api-explorer.aspx for local temperature and weather conditions. 
  
- I would not recommend using this for this project as it caused problems later when trying to get icons (couldn't get them to change). 
+ This site caused problems for me later on when trying to get icons (couldn't get them to change). 
  
  #### Built With 
  JavaScript, HTML and CSS 
