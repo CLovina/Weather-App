@@ -3,10 +3,8 @@
  
  <img src= "https://github.com/CLovina/Weather-App/blob/378074fcc310691d7ff2aca10a803f14fe61c61b/WeatherApp.jpg" alt="Weather Website">
  
- I created this local weather web application following Dev Ed's Youtube tutorial:
-  https://www.youtube.com/watch?v=wPElVpR1rwA&t=2053s
- 
- 
+I created a local weather web application, using API to get my local weather conditions. 
+
  #### Implemented 
  Weather API https://www.weatherapi.com/api-explorer.aspx for local temperature and weather conditions. 
  
@@ -17,3 +15,4 @@
  
  #### Acknowledgements 
  Dev Ed
+
